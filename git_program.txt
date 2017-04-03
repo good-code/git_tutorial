@@ -1,0 +1,30 @@
+my git program will have 10 stages / levels it will start with basics which
+will be exercised systematically until muscle memory fully developed.
+
+how to practice?
+
+everyday?  eat least 3 times a week.
+brain needs some time between exercises.  material has got to be repeated few
+times before it becomes automatic and fast process.
+when we lern something we have to perform it very slow. at 30bpm.  this is
+because our concies attencion is involved in process.  after repetitve concies
+practice whole procedure becomes memorized in brain and it performs its
+partical action mechanically 'without thinking about it' it is able to do this
+much faster then in concius mode.
+
+first thing at each session is tuning the instrument.
+find high open string e (one at the bottom) and ensure it is correct pitch.
+there is folder tuned strings compare and also check with tuner.
+if your guitar is wrong pitch then all your learning/exercising will be canter
+    productive. ie you will be confusing your brain. this is why its important 
+    to make sure its tuned correct. every exercise will be adjusting your ear
+    and brain to different pitches.  you will become more sensitive with time.
+as part of ear training you should be able to recognize note and able to find
+them on freatboad and write them down on clif. ear training takes time. so at
+first dont worry if all notes/pitches sound similar and you cannot tell which
+one is which.  after some time of exercising with instrument you will find it
+easier to recognize your guitar went of tune.  
+there is few git tuners available with source code. this programs are quite
+acurate and are able to recognize pitch of many different instruments.
+practice with them. you can also use them to find out key of your fav song.
+
